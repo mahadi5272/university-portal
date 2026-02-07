@@ -1,11 +1,11 @@
 import React from 'react';
 
-const TegistrarOffice = () => {
+const RegistrarOffice = () => {
     return (
         <div>
-            
+            RegistrarOffice
         </div>
     );
 };
 
-export default TegistrarOffice;
+export default RegistrarOffice;

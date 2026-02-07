@@ -3,7 +3,7 @@ import React from 'react';
 const BoardOfTrustees = () => {
     return (
         <div>
-            
+            BoardOfTrustees
         </div>
     );
 };

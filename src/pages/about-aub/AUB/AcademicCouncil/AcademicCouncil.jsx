@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const AcademicCouncil = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return <div>const AcademicCouncil</div>;
 };
 
 export default AcademicCouncil;

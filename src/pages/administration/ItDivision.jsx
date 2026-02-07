@@ -3,7 +3,7 @@ import React from 'react';
 const ItDivision = () => {
     return (
         <div>
-            
+            ItDivision
         </div>
     );
 };
