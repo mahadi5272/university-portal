@@ -1,2 +1,12 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+@layer base {
+  body {
+    @apply bg-[#f9f9f9];
+  }
+}
+
+@layer components {
+  .global-position { @apply max-w-7xl mx-auto; }
+}
